@@ -107,9 +107,9 @@ class TestBinarySearch(TestCase):
                 msg='should return {count: 4, index: 7} for 16'
             )
             self.assertEqual(
-                0,
+                5,
                 search2['count'],
-                msg='should return {count: 0, index: 19} for 40'
+                msg='should return {count: 5, index: 19} for 40'
             )
             self.assertEqual(
                 19,

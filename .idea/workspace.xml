@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8cec3f8e-2dd2-4b2e-88b7-ec59803c8291" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/binary_search.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_binarySearch.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/binary_search.py" afterPath="$PROJECT_DIR$/binary_search.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test_binarySearch.py" afterPath="$PROJECT_DIR$/test_binarySearch.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -19,8 +18,8 @@
       <file leaf-file-name="binary_search.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/binary_search.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="408">
-              <caret line="24" column="25" lean-forward="true" selection-start-line="24" selection-start-column="25" selection-end-line="24" selection-end-column="25" />
+            <state relative-caret-position="102">
+              <caret line="9" column="30" lean-forward="false" selection-start-line="9" selection-start-column="30" selection-end-line="9" selection-end-column="30" />
               <folding />
             </state>
           </provider>
@@ -29,8 +28,8 @@
       <file leaf-file-name="test_binarySearch.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/test_binarySearch.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="53">
-              <caret line="96" column="50" lean-forward="true" selection-start-line="96" selection-start-column="12" selection-end-line="96" selection-end-column="50" />
+            <state relative-caret-position="204">
+              <caret line="75" column="0" lean-forward="true" selection-start-line="75" selection-start-column="0" selection-end-line="75" selection-end-column="0" />
               <folding>
                 <element signature="e#0#29#0" expanded="true" />
               </folding>
@@ -112,40 +111,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.binary_search">
-    <configuration default="false" name="find_missing" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="SLC_Day4" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/find_missing.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <method />
-    </configuration>
-    <configuration default="false" name="Unittests for test_find_missing.MissingNumberTest" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="SLC_Day4" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_find_missing.MissingNumberTest&quot;" />
-      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Python tests.Unittests for test_binarySearch.TestBinarySearch.BinarySearchTest">
     <configuration default="false" name="binary_search" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -164,21 +130,6 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <method />
     </configuration>
-    <configuration default="false" name="Unittests in test_binarySearch.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="SLC_Day4" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;$PROJECT_DIR$/test_binarySearch.py&quot;" />
-      <option name="_new_targetType" value="&quot;PATH&quot;" />
-      <method />
-    </configuration>
     <configuration default="false" name="Unittests for test_binarySearch.TestBinarySearch.ListComprehensionTest" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -191,6 +142,51 @@
       <module name="SLC_Day4" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
       <option name="_new_target" value="&quot;test_binarySearch.TestBinarySearch.ListComprehensionTest&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Unittests for test_binarySearch.TestBinarySearch.BinarySearchTest.test_large_list_search" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="SLC_Day4" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_binarySearch.TestBinarySearch.BinarySearchTest.test_large_list_search&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Unittests for test_binarySearch.TestBinarySearch.BinarySearchTest" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="SLC_Day4" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_binarySearch.TestBinarySearch.BinarySearchTest&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Unittests for test_binarySearch.TestBinarySearch.BinarySearchTest.test_medium_list_search" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="SLC_Day4" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_binarySearch.TestBinarySearch.BinarySearchTest.test_medium_list_search&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method />
     </configuration>
@@ -259,19 +255,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.find_missing" />
-      <item index="1" class="java.lang.String" itemvalue="Python tests.Unittests for test_find_missing.MissingNumberTest" />
-      <item index="2" class="java.lang.String" itemvalue="Python.binary_search" />
-      <item index="3" class="java.lang.String" itemvalue="Python tests.Unittests in test_binarySearch.py" />
-      <item index="4" class="java.lang.String" itemvalue="Python tests.Unittests for test_binarySearch.TestBinarySearch.ListComprehensionTest" />
+      <item index="0" class="java.lang.String" itemvalue="Python.binary_search" />
+      <item index="1" class="java.lang.String" itemvalue="Python tests.Unittests for test_binarySearch.TestBinarySearch.ListComprehensionTest" />
+      <item index="2" class="java.lang.String" itemvalue="Python tests.Unittests for test_binarySearch.TestBinarySearch.BinarySearchTest.test_large_list_search" />
+      <item index="3" class="java.lang.String" itemvalue="Python tests.Unittests for test_binarySearch.TestBinarySearch.BinarySearchTest" />
+      <item index="4" class="java.lang.String" itemvalue="Python tests.Unittests for test_binarySearch.TestBinarySearch.BinarySearchTest.test_medium_list_search" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.binary_search" />
-        <item index="1" class="java.lang.String" itemvalue="Python tests.Unittests for test_binarySearch.TestBinarySearch.ListComprehensionTest" />
-        <item index="2" class="java.lang.String" itemvalue="Python tests.Unittests in test_binarySearch.py" />
-        <item index="3" class="java.lang.String" itemvalue="Python tests.Unittests for test_find_missing.MissingNumberTest" />
-        <item index="4" class="java.lang.String" itemvalue="Python.find_missing" />
+        <item index="0" class="java.lang.String" itemvalue="Python tests.Unittests for test_binarySearch.TestBinarySearch.BinarySearchTest" />
+        <item index="1" class="java.lang.String" itemvalue="Python tests.Unittests for test_binarySearch.TestBinarySearch.BinarySearchTest.test_medium_list_search" />
+        <item index="2" class="java.lang.String" itemvalue="Python tests.Unittests for test_binarySearch.TestBinarySearch.ListComprehensionTest" />
+        <item index="3" class="java.lang.String" itemvalue="Python tests.Unittests for test_binarySearch.TestBinarySearch.BinarySearchTest.test_large_list_search" />
+        <item index="4" class="java.lang.String" itemvalue="Python.binary_search" />
       </list>
     </recent_temporary>
   </component>
@@ -289,32 +285,35 @@
     <servers />
   </component>
   <component name="TestHistory">
+    <history-entry file="Unittests_for_test_binarySearch_TestBinarySearch_BinarySearchTest - 2017.04.20 at 13h 22m 00s.xml">
+      <configuration name="Unittests for test_binarySearch.TestBinarySearch.BinarySearchTest" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_test_binarySearch_TestBinarySearch_BinarySearchTest - 2017.04.20 at 13h 22m 35s.xml">
+      <configuration name="Unittests for test_binarySearch.TestBinarySearch.BinarySearchTest" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_test_binarySearch_TestBinarySearch_BinarySearchTest - 2017.04.20 at 13h 23m 23s.xml">
+      <configuration name="Unittests for test_binarySearch.TestBinarySearch.BinarySearchTest" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_test_binarySearch_TestBinarySearch_BinarySearchTest - 2017.04.20 at 13h 23m 43s.xml">
+      <configuration name="Unittests for test_binarySearch.TestBinarySearch.BinarySearchTest" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_test_binarySearch_TestBinarySearch_BinarySearchTest_test_large_list_search - 2017.04.20 at 13h 19m 13s.xml">
+      <configuration name="Unittests for test_binarySearch.TestBinarySearch.BinarySearchTest.test_large_list_search" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_test_binarySearch_TestBinarySearch_BinarySearchTest_test_medium_list_search - 2017.04.20 at 13h 22m 26s.xml">
+      <configuration name="Unittests for test_binarySearch.TestBinarySearch.BinarySearchTest.test_medium_list_search" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_test_binarySearch_TestBinarySearch_BinarySearchTest_test_medium_list_search - 2017.04.20 at 13h 22m 29s.xml">
+      <configuration name="Unittests for test_binarySearch.TestBinarySearch.BinarySearchTest.test_medium_list_search" configurationId="tests" />
+    </history-entry>
     <history-entry file="Unittests_for_test_binarySearch_TestBinarySearch_ListComprehensionTest - 2017.04.20 at 11h 46m 02s.xml">
       <configuration name="Unittests for test_binarySearch.TestBinarySearch.ListComprehensionTest" configurationId="tests" />
     </history-entry>
     <history-entry file="Unittests_for_test_binarySearch_TestBinarySearch_ListComprehensionTest - 2017.04.20 at 11h 51m 33s.xml">
       <configuration name="Unittests for test_binarySearch.TestBinarySearch.ListComprehensionTest" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_for_test_find_missing_MissingNumberTest - 2017.04.19 at 23h 38m 37s.xml">
-      <configuration name="Unittests for test_find_missing.MissingNumberTest" configurationId="tests" />
-    </history-entry>
-    <history-entry file="Unittests_for_test_find_missing_MissingNumberTest - 2017.04.19 at 23h 40m 16s.xml">
-      <configuration name="Unittests for test_find_missing.MissingNumberTest" configurationId="tests" />
-    </history-entry>
-    <history-entry file="Unittests_for_test_find_missing_MissingNumberTest - 2017.04.19 at 23h 40m 33s.xml">
-      <configuration name="Unittests for test_find_missing.MissingNumberTest" configurationId="tests" />
-    </history-entry>
-    <history-entry file="Unittests_for_test_find_missing_MissingNumberTest - 2017.04.19 at 23h 42m 27s.xml">
-      <configuration name="Unittests for test_find_missing.MissingNumberTest" configurationId="tests" />
-    </history-entry>
-    <history-entry file="Unittests_for_test_find_missing_MissingNumberTest - 2017.04.19 at 23h 42m 28s.xml">
-      <configuration name="Unittests for test_find_missing.MissingNumberTest" configurationId="tests" />
-    </history-entry>
-    <history-entry file="Unittests_for_test_find_missing_MissingNumberTest - 2017.04.19 at 23h 42m 29s.xml">
-      <configuration name="Unittests for test_find_missing.MissingNumberTest" configurationId="tests" />
-    </history-entry>
-    <history-entry file="Unittests_in_test_binarySearch_py - 2017.04.20 at 11h 37m 50s.xml">
-      <configuration name="Unittests in test_binarySearch.py" configurationId="tests" />
+    <history-entry file="Unittests_for_test_binarySearch_TestBinarySearch_ListComprehensionTest - 2017.04.20 at 13h 22m 20s.xml">
+      <configuration name="Unittests for test_binarySearch.TestBinarySearch.ListComprehensionTest" configurationId="tests" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
@@ -326,7 +325,7 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25236592" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.33596215" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -387,8 +386,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/test_binarySearch.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="53">
-          <caret line="96" column="50" lean-forward="true" selection-start-line="96" selection-start-column="12" selection-end-line="96" selection-end-column="50" />
+        <state relative-caret-position="204">
+          <caret line="75" column="0" lean-forward="true" selection-start-line="75" selection-start-column="0" selection-end-line="75" selection-end-column="0" />
           <folding>
             <element signature="e#0#29#0" expanded="true" />
           </folding>
@@ -397,8 +396,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/binary_search.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="24" column="25" lean-forward="true" selection-start-line="24" selection-start-column="25" selection-end-line="24" selection-end-column="25" />
+        <state relative-caret-position="102">
+          <caret line="9" column="30" lean-forward="false" selection-start-line="9" selection-start-column="30" selection-end-line="9" selection-end-column="30" />
           <folding />
         </state>
       </provider>

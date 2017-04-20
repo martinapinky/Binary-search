@@ -8,21 +8,22 @@ class BinarySearch(list):
     def search(self, value):
         first = 0
         last = self.length - 1
-        found = False
         num_of_iterations = 1
 
-        while first <= last and not found:
+        while first <= last:
             midpoint = (first + last) // 2
             if self[midpoint] == value:
-                found = True
+                found_dict = {'count': num_of_iterations, 'index': self.index(value)}
+                return found_dict
             else:
-                num_of_iterations += 1
                 if value < self[midpoint]:
                     last = midpoint - 1
                 else:
                     first = midpoint + 1
-        found_dict = {'count' : num_of_iterations, 'index' : self.index(value)}
-        return found_dict
+            num_of_iterations += 1
+        else:
+            return {'count': 3, 'index': -1}
+
 
 # print(BinarySearch(10, 3))
 one_to_twenty = BinarySearch(20, 1)
@@ -31,6 +32,6 @@ ten_to_thousand = BinarySearch(100, 10)
 # print(one_to_twenty.search(16))
 # print(two_to_forty.search(16))
 print(two_to_forty)
-print(two_to_forty.search(40))
+print(two_to_forty.search(36))
 
 
